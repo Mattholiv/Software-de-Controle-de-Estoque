@@ -1,5 +1,7 @@
 # Controle de Estoque
 
+Prints do projeto: https://drive.google.com/drive/folders/1tAiyUjCDXk1640YA-HJGRwa3SydnqHHZ
+
 Instruções rápidas para rodar o projeto em ambiente de desenvolvimento.
 
 Backend (Python/Flask):
